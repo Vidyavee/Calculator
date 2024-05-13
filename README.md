@@ -1,4 +1,4 @@
-# Calculato
+# Calculator
 
 This is a basic calculator project created using HTML and CSS. It provides a simple user interface for inputting numbers and performing basic arithmetic operations.
 
